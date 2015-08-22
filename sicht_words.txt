@@ -1,0 +1,14 @@
+absicht:purport,agenda [fig.],aim,concept,deliberation,design [intention],intention,intent,mind [intention, aim],plan [intention],proposition,purpose,tendency [intention],view [intention, plan],animus [intention]
+ansicht:image,picture,scene,view,sight [obs.] [view, opinion],notion [view, opinion],elevation,prospect [picture],estimation [judgement],aspect [point of view],belief,mind [opinion],opinion,position [opinion],sentiments {pl} [opinion],sentiment [opinion],take [opinion],thinking [opinion],point of view
+aufsicht:attention,charge [supervision],control [superintendence],custody,oversight [supervision],person in charge,superintendence,supervision,supervisor,shopwalker [Br.],top view,controllership [Br.],high angle shot,overhead shot,invigilator [Br.],control supervisor,proctor,surveillance
+aussicht:outlook,prospect,sight,view [sight, prospect],vista,chance
+besicht:inspection
+durchsicht:checkup,examination,perusal,review,revision,run-through,searching,search,cloudiness
+einsicht:discretion [understanding],insight,intelligence,realisation [Br.],understanding [comprehension],discernment,realization [awareness],searching [of documents],view [into sth.],knowledge,conclusion,judiciousness,reason [common sense],sense [reason],access
+gesicht:face,facies,visage [literary],expression [of face],mush [Br.] [sl.],vision,sense of sight,front (side)
+hinsicht:regard,respect
+nachsicht:allowance [leniency],charity [indulgence],clemency,forbearance,indulgence,indulgences {pl},lenience,leniency,lenity [literary],hindsight
+umsicht:care [prudence, cautiousness],cautiousness,circumspection,discretion [prudence],prudence,usual caution,vigilance
+untersicht:worm's-eye view,low angle shot
+vorsicht:attention,cautiousness,circumspection,circumspectness,guardedness,precaution,prudence [caution, circumspection],wariness,caution [signal word, ANSI standard],care [carefulness]
+übersicht:abstract,comprehensive view,conspectus,digest,general chart,general view,list,outline,overall view,overview,review,schedule,scheme,summary,survey,synoptic view,vision,synopsis
