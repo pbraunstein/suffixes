@@ -1,8 +1,0 @@
-abrede:understanding,accord
-anrede:honorific,form of address,term of address,address [salutation, form of address],appellation,compellation,salutation,salutatory address,title
-ausrede:excuse,plea,pretext,subterfuge,whitewash [fig.],face-saver
-einrede:defense [Am.],demurrer,objection,plea
-gegenrede:contradiction,replies
-gerede:gossip,scuttlebutt [esp. Am.] [coll.] [gossip],chatter,chitchat [coll.],talk,ramblings {pl} [rambling speech]
-vorrede:opening speech,preamble,preface,foreword
-widerrede:backchat [coll.],backtalk,contradiction

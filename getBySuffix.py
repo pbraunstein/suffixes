@@ -68,5 +68,6 @@ def writeOut(test, found):
             filew.write(key.encode(CODE) + ":")
             filew.write(",".join([x.encode(CODE) for x in defs]) + "\n")
 
+
 if __name__ == '__main__':
     main()

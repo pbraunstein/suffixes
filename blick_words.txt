@@ -1,7 +1,0 @@
-anblick:aspect,look,perspective,sight,spectacle [object of attention],viewing [darśana],view
-ausblick:prospectus,forecast,lookout,outlook,perspective,prospect,view,vista,prospects {pl}
-durchblick:perspective,vista,savvy [coll.]
-einblick:insight,view [in / into],once-over
-hinblick:regard,view
-vorblick:preview,foresight
-überblick:general view,overview,review,round-up,scheme,summary,survey,synoptic view,view [general view, summary],outline [fig.]

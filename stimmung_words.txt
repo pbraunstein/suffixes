@@ -1,8 +1,0 @@
-abstimmung:fine-tuning [of dialysis parameters],balloting,ballot,casting of votes,election,polling,poll,reconciliation,referendum,set-up,voting,agreement,reconcilement,coordination,vote [ballot],balancing,tuning,accord
-beistimmung:acquiescence,assent
-bestimmung:article,ascertainment,defining,determinant,modifier,provision,definition,appointment,calling [inner impulse],decision,identification [of a plant etc.],designation [of a place for a special purpose],stipulation,determination [determining],assignment,policy [rule],clause [in a contract],term [in a contract or treaty],settlement,destiny,assay,appropriation,classification,regulation,requirement [rule],instruction,destination,purpose,assignation [allocation, attribution]
-einstimmung:attunement
-missstimmung:anxiety [dysphoria],dysphoria,ill humor [Am.],ill humour [Br.]
-umstimmung:changeover,shuffle,transposition
-verstimmung:detuning,disgruntlement,displeasure,resentment,upset,alienation [between people, parties]
-zustimmung:acceptance,acclaim,accordance,acquiescence,affirmation,agreement,applause,approbation,approval,assentation,assent,compliance [acquiescence],consent (to),consent,fiat,indorsement,nod,okay,OK [coll.],placet,sympathy [assent, consent],allowance [tolerance, sanction] [e.g. of slavery]
